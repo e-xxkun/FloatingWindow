@@ -1,0 +1,22 @@
+F:\Administrator\document\SharpDevelop Projects\FloatingWindow\FloatingWindow\obj\Debug\FloatingWindow.csprojResolveAssemblyReference.cache
+F:\Administrator\document\SharpDevelop Projects\FloatingWindow\FloatingWindow\bin\Debug\FloatingWindow.exe
+F:\Administrator\document\SharpDevelop Projects\FloatingWindow\FloatingWindow\bin\Debug\FloatingWindow.pdb
+F:\Administrator\document\SharpDevelop Projects\FloatingWindow\FloatingWindow\obj\Debug\FloatingWindow.exe
+F:\Administrator\document\SharpDevelop Projects\FloatingWindow\FloatingWindow\obj\Debug\FloatingWindow.pdb
+F:\Administrator\document\SharpDevelop Projects\FloatingWindow\FloatingWindow\obj\Debug\FloatingWindow.MainForm.resources
+F:\Administrator\document\SharpDevelop Projects\FloatingWindow\FloatingWindow\obj\Debug\FloatingWindow.csproj.GenerateResource.Cache
+F:\Administrator\document\SharpDevelop\FloatingWindow\FloatingWindow\bin\Debug\FloatingWindow.exe
+F:\Administrator\document\SharpDevelop\FloatingWindow\FloatingWindow\bin\Debug\FloatingWindow.pdb
+F:\Administrator\document\SharpDevelop\FloatingWindow\FloatingWindow\obj\Debug\FloatingWindow.csprojResolveAssemblyReference.cache
+F:\Administrator\document\SharpDevelop\FloatingWindow\FloatingWindow\obj\Debug\FloatingWindow.MainForm.resources
+F:\Administrator\document\SharpDevelop\FloatingWindow\FloatingWindow\obj\Debug\FloatingWindow.csproj.GenerateResource.Cache
+F:\Administrator\document\SharpDevelop\FloatingWindow\FloatingWindow\obj\Debug\FloatingWindow.exe
+F:\Administrator\document\SharpDevelop\FloatingWindow\FloatingWindow\obj\Debug\FloatingWindow.pdb
+F:\Administrator\document\Code\C#\FloatingWindow\FloatingWindow\bin\Debug\FloatingWindow.exe
+F:\Administrator\document\Code\C#\FloatingWindow\FloatingWindow\bin\Debug\FloatingWindow.pdb
+F:\Administrator\document\Code\C#\FloatingWindow\FloatingWindow\obj\Debug\FloatingWindow.csprojAssemblyReference.cache
+F:\Administrator\document\Code\C#\FloatingWindow\FloatingWindow\obj\Debug\FloatingWindow.MainForm.resources
+F:\Administrator\document\Code\C#\FloatingWindow\FloatingWindow\obj\Debug\FloatingWindow.csproj.GenerateResource.cache
+F:\Administrator\document\Code\C#\FloatingWindow\FloatingWindow\obj\Debug\FloatingWindow.csproj.CoreCompileInputs.cache
+F:\Administrator\document\Code\C#\FloatingWindow\FloatingWindow\obj\Debug\FloatingWindow.exe
+F:\Administrator\document\Code\C#\FloatingWindow\FloatingWindow\obj\Debug\FloatingWindow.pdb

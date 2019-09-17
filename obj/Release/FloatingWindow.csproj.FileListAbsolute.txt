@@ -1,0 +1,5 @@
+F:\Administrator\document\Code\C#\FloatingWindow\FloatingWindow\bin\Release\FloatingWindow.exe
+F:\Administrator\document\Code\C#\FloatingWindow\FloatingWindow\obj\Release\FloatingWindow.MainForm.resources
+F:\Administrator\document\Code\C#\FloatingWindow\FloatingWindow\obj\Release\FloatingWindow.csproj.GenerateResource.cache
+F:\Administrator\document\Code\C#\FloatingWindow\FloatingWindow\obj\Release\FloatingWindow.csproj.CoreCompileInputs.cache
+F:\Administrator\document\Code\C#\FloatingWindow\FloatingWindow\obj\Release\FloatingWindow.exe
